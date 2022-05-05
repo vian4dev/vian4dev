@@ -10,12 +10,17 @@
   </h2>
 </div>
 
+```
 Hi there
 
 - I’m currently working on Yawl , Brasília/DF - Brazil.
+
 - I’m currently learning Javascript, Typescript, NodeJS, ReactJS and React Native.
+
 - I'm interested in Python and Docker.
+
 - How to reach me: viannadoze@gmail.com.
+```
 
 <div align="center">
   <a href="https://github.com/vian4dev">
