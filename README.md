@@ -1,12 +1,12 @@
 <div>
   <h1 align="center">
-    Bem vindo ao meu repositório do Github!
+    Welcome to my Github repository!
   </h1>
 </div>
 
 <div>
   <h2 align="center">
-    Descrição do meu perfil
+    Description of my profile
   </h2>
 </div>
 
