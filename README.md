@@ -10,7 +10,6 @@
   </h2>
 </div>
 
-```
 Hi there
 
 - I’m currently working on Yawl , Brasília/DF - Brazil.
@@ -20,7 +19,6 @@ Hi there
 - I'm interested in Python and Docker.
 
 - How to reach me: viannadoze@gmail.com.
-```
 
 <div align="center">
   <a href="https://github.com/vian4dev">
