@@ -10,15 +10,15 @@
   </h2>
 </div>
 
-Olá, eu sou Gabriel Viana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+Olá, eu sou Gabriel Viana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px">
 
-- I’m currently working on Yawl , Brasília/DF - Brazil.
+- Atualmente estou trabalhando na Yawl , Brasília/DF - Brazil.
 
-- I’m currently learning Javascript, Typescript, NodeJS, ReactJS and React Native.
+- Atualmente estou aprendendo Javascript, Typescript, NodeJS, ReactJS and React Native.
 
-- I'm interested in Python and Docker.
+- estou interessado em Python e Docker.
 
-- How to reach me: viannadoze@gmail.com.
+- Entre em contato: viannadoze@gmail.com.
 
 <div align="center">
   <a href="https://github.com/vian4dev">
