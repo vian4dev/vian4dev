@@ -14,9 +14,9 @@ Olá, eu sou Gabriel Viana <img src="https://media.giphy.com/media/hvRJCLFzcasrR
 
 - Atualmente estou trabalhando na Yawl , Brasília/DF - Brazil.
 
-- Atualmente estou aprendendo Javascript, Typescript, NodeJS, ReactJS and React Native.
+- Estou aprendendo Javascript, Typescript, NodeJS, ReactJS and React Native.
 
-- estou interessado em Python e Docker.
+- Interessado em Python e Docker.
 
 - Entre em contato: viannadoze@gmail.com.
 
