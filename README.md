@@ -17,7 +17,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&v
   <img align="center" alt="img-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="img-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="img-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="img-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="img-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/redux-plain.svg">
 </div>
 <br>
 <div>
