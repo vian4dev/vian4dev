@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2C04BF&height=150&section=header&text=Repósitorio Github&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05A696&height=120&section=header"/>
 
 [![Typing
 SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Faaala,+dev;Me+chamo+Gabriel+Viana;Sou+Estudante+de+Análise+de+Sistemas;Moro+em+Brasília-DF;Me+Especializando+em+Front-End;Sejam+bem-vindos!+:%29)](https://git.io/typing-svg)
@@ -25,4 +25,4 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&v
   <a href="https://www.linkedin.com/in/vianadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2C04BF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=464646&height=120&section=footer"/>
