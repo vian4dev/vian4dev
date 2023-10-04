@@ -1,4 +1,4 @@
-<img align="left" height="590em" src="./github/vian4dev-card.svg"/>
+<img align="left" height="590em" src="./github/vian4dev-card.png"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Gabriel Viana.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
