@@ -10,7 +10,7 @@
 
 - ❤️ Hobby: **Divertir-me com jogos de RPG com os amigos**.
 
-<br><br>
+<br/>
 
 ## 🔖 Contatos
 
