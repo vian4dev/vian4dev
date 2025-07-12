@@ -1,18 +1,18 @@
 <img align="right" height="590em" src="./.github/vian4dev-card.png"/>
-<h1 align="left">Olá, Eu sou Gabriel Viana.</h1>
+<h1 align="left">Hello 👋, I'm Gabriel Viana.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vian4dev&color=green" alt="Profile views" /> </p>
 
-- 🔥 Dedicando-me ao estudo e aprimoramento no desenvolvimento de aplicações Front-End.
+- 🔥 Dedicating myself to studying and improving the development of Full-Stack AI applications.
 
-- 🔭 Atualmente trabalho como **Analista de Suporte**
+- 🔭 I currently work as a **Freelancer Full-Stack Developer and N2 Support Analyst**
 
-- 💬 Pergunte sobre: **JavaScript, TypeScript, Node, React, Next, SASS**
+- 💬 Pergunte sobre: **JavaScript, TypeScript, Node.js, React, Next, SASS, TailWind, Python e IA**
 
-- ❤️ Hobby: **Divertir-me com jogos de RPG com os amigos**.
+- ❤️ Hobby: **Having fun with retro games, extreme sports with friends**.
 
 <br/>
 
-## 🔖 Contatos
+## 🔖 Contacts
 
 <p align="left" style="background:yellow">
 <a href="https://instagram.com/viana.dev" target="_blank">
