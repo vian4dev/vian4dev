@@ -21,7 +21,6 @@
   Discord
 </a>
 
-&nbsp
 
 <a href="http://linkedin.com/in/vianadev" target="_blank">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="24" alt="Linkedin"/> 
