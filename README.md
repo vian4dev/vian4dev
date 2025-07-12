@@ -16,12 +16,13 @@
 
 <p align="left" style="background:yellow">
 
-<a href="http://linkedin.com/in/vianadev" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="twitter"/>  
+<a href="https://discordapp.com/channels/1393623119079538931/1393623119570141216" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" width="24" alt="Discord"/>  
 </a>
 
-<a href="https://t.me/vian4dev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram" alt="linkedin"/>
+<a href="http://linkedin.com/in/vianadev" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="24" alt="Linkedin" />  
 </a>
+
 
 </p>
