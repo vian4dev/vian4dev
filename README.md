@@ -12,7 +12,7 @@
 
 <br/>
 
-## 🔖 Contacts
+## 🔖 Connect with me
 
 <p align="left" style="background:yellow">
 <a href="https://instagram.com/viana.dev" target="_blank">
