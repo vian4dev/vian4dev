@@ -6,7 +6,7 @@
 
 - 🔭 I currently work as a **Freelancer Full-Stack Developer and N2 Support Analyst**
 
-- 💬 Pergunte sobre: **JavaScript, TypeScript, Node.js, React, Next, SASS, TailWind, Python e IA**
+- 💬 ask me: **JavaScript, TypeScript, Node.js, React, Next, SASS, TailWind, Python e IA**
 
 - ❤️ Hobby: **Having fun with retro games, extreme sports with friends**.
 
